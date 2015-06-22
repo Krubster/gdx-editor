@@ -1,0 +1,13 @@
+charcters=abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZйцукенгшщзхъфывапролджэячсмитьбюЙЦУКЕНГШЩЗХЪФЫВАПРОЛДЖЭЯЧСМИТЬБЮ0123456789][_!$%#@|\/?-+=()*&.:;,{}"'<>
+kerning=true
+flip=false
+size=20
+genMipMaps=true
+borderStraight=false
+borderWidth=2
+incremental=true
+shadowOffsetX=1
+shadowOffsetY=1
+shadowColor=0 0 0 1
+color=1 1 1 1
+borderColor=0 0 0 1
